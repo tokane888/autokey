@@ -1,11 +1,11 @@
 {
     "type": "script",
-    "description": "muhen+p",
+    "description": "hen+@",
     "store": {},
     "modes": [
         3
     ],
-    "usageCount": 41,
+    "usageCount": 0,
     "prompt": false,
     "omitTrigger": false,
     "showInTrayMenu": false,
@@ -19,9 +19,9 @@
     },
     "hotkey": {
         "modifiers": [
-            "<meta>"
+            "<hyper>"
         ],
-        "hotKey": "p"
+        "hotKey": "@"
     },
     "filter": {
         "regex": null,
