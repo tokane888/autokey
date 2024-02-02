@@ -2,7 +2,9 @@
     "type": "script",
     "description": "muhen+i",
     "store": {},
-    "modes": [],
+    "modes": [
+        3
+    ],
     "usageCount": 0,
     "prompt": false,
     "omitTrigger": false,
